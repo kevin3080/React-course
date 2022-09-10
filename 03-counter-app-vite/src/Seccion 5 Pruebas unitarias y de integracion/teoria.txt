@@ -1,0 +1,42 @@
+Que son las pruebas unitarias:
+
+estan enfocadas en pequeñas 
+funcionalidades
+
+las pruebas de integracion: estan en como reaccionan 
+varias piezas en conjunto
+
+Caracteristicas de Pruebas:
+    1. Fáciles de escribir
+    2. Fáciles de leer
+    3. Confiables
+    4. Rápidas
+    5. Principalmente unitarias
+        AAA:
+        Arrange (Arreglar)
+        Act (Actuar)
+        Assert (Afirmar)
+
+Arrenge:
+    Preparamos el estado inicial
+        inicializamos variables
+        importaciones necesarias
+        preparamos el ambiente a probar
+
+Act:
+    Vamos aplicar acciones o estimulos al sujeto de pruebas
+    llamamos métodos
+    Simular clicks
+    Realizar acciones sobre el paso anterior
+
+Assert:
+    Basicamente se resume a observar el comportamiento resultante
+        Son los resultados esperados
+        Ej: Que algo cambie, algo incremente o bien que nada suceda
+
+Mitos:
+    Hacen que mi aplicación no tenga errores
+    las pruebas no pueden fallar
+    hacen mas lenta mi aplicación
+    Es una pérdida de tiempo
+    Hay que probar todo

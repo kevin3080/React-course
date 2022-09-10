@@ -1,0 +1,14 @@
+hmtl, body{
+    background-color: #21232A;
+    color: white;
+    font-family: Helvatica, Arial, Helvetica, sans-serif;
+    font-size: 1.3rem;
+    padding: 70px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.3rem;
+    margin-right: 5px;
+}
